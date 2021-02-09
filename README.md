@@ -7,3 +7,6 @@ Neste novo projeto, estou criando um painel KDS, para recebimento de pedidos, co
 
 
 #LucasM
+
+
+!(https://github.com/LukzMendes/painelkds/blob/Deashboard/image.png?raw=true)
